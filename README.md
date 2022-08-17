@@ -1,0 +1,2 @@
+# MinTic
+ Proyecto mintic
